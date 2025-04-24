@@ -1,0 +1,49 @@
+h1:hover{
+    background-color:rgb(158, 224, 250);
+}
+table{
+    color: rgb(255, 153, 153) ;
+    border: 1px solid rgb(0, 0, 0);
+    width:250px ;
+    height:500px ;
+    text-align: center;
+    border-collapse: collapse;
+    width: 100%;
+    background: linear-gradient(to right, rgb(255, 39, 39), rgb(255, 178, 35), rgb(253, 253, 48), rgb(35, 173, 35), rgba(59, 155, 233, 0.822), rgb(41,41,151),rgb(128,76,158));
+}
+th{
+    border: 1px solid rgb(0, 0, 0);
+}
+td{
+    border:1px solid rgb(0, 0, 0);
+}
+h1{
+    text-align: center;
+}
+th:hover{
+    background-color: lightgreen;
+}
+td:hover{
+    background-color: lightblue;
+}
+body{
+    background: linear-gradient(to right, rgb(255, 39, 39), rgb(255, 178, 35), rgb(253, 253, 48), rgb(35, 173, 35), rgba(59, 155, 233, 0.822), rgb(41,41,151),rgb(128,76,158));
+}
+.Billy{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    background-repeat: no-repeat;
+    width: 184px;
+    height: 184px;
+    background-image: url(https://cdn.akamai.steamstatic.com/steamcommunity/public/images/avatars/8d/8d8ccc0b6a534cc4a30e25419c6a37037a66d73a_full.jpg);
+}
+.Billy:hover{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    background-repeat: no-repeat;
+    width:259px;
+    height:195px;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1_juku8G-qakXyMAl-C2ojd_WC3T9IrDiZ6Ye0vgqWOF3VScijYxIjaSYs-xhh8jWlqg&usqp=CAU);
+}

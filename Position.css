@@ -1,0 +1,65 @@
+.static{
+    position: static;
+    background-color: gray;
+    border: black solid 1px;
+    width: 250px;
+    height: 100px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.relative{
+    position: relative;
+    background-color: gray;
+    border: black solid 1px;
+    width: 250px;
+    height: 100px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    left: 15px;
+    top: 15px;
+}
+.sticky{
+    position: sticky;
+    background-color: gray;
+    border: black solid 1px;
+    width: 250px;
+    height: 100px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    top: 150px;
+    left: 80px;
+}
+.absolute{
+    position: absolute;
+    background-color: gray;
+    border: black solid 1px;
+    width: 250px;
+    height: 100px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    right:1px;
+}
+.fixed{
+    position: fixed;
+    background-color: gray;
+    border: black solid 1px;
+    width: 250px;
+    height: 100px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    top:30px;
+    right: 40px;
+}
+body{
+    height: 10000px;
+}

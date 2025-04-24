@@ -1,0 +1,439 @@
+body{
+    display: flex;
+    flex-direction: column;
+}
+.Vse{
+    display: flex;
+    flex-direction: column;
+}
+.Verh{
+position: absolute;
+width: 1440px;
+height: 100px;
+left: 0px;
+background: #FFFFFF;
+}
+.Niz{
+position: absolute;
+width: 1440px;
+height: 150px;
+left: 0px;
+top: 100px;
+background: #FFFFFF;
+}
+.Valanta{
+    position: absolute;
+    width: 131px;
+    height: 72px;
+    left: 100px;
+    top: 17px;
+}
+.Palochka{
+    position: absolute;
+    width: 1px;
+    height: 40px;
+    left: 258px;
+    top: 31px;
+    background: #E2E2E2;
+}
+.Ua{
+    position: absolute;
+    width: 22px;
+    height: 21px;
+    left: 285px;
+    top: 28px;
+    font-family: Suisse Int;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 21px;
+    text-align: center;
+    color: #1F1F1F;
+}
+.Ru{
+    position: absolute;
+    width: 35px;
+    height: 20px;
+    left: 279px;
+    top: 51px;
+    background: #4AD295;
+    border-radius: 2px;
+    color: #FFFFFF;
+    text-align: center;
+}
+.Palochka1{
+    position: absolute;
+    width: 1px;
+    height: 40px;
+    left: 339px;
+    top: 31px;
+    background: #E2E2E2;
+}
+.USD{
+    position: absolute;
+    width: 75px;
+    height: 19px;
+    left: 365px;
+    top: 31px;
+    font-family: Suisse Int;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 19px;
+    color: #393939;
+}
+.EUR{
+    position: absolute;
+    width: 74px;
+    height: 19px;
+    left: 365px;
+    top: 54px;
+    font-family: Suisse Int;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 19px;
+    color: #393939;
+}
+.Palochka2{
+    position: absolute;
+    width: 1px;
+    height: 40px;
+    left: 465px;
+    top: 31px;
+    background: #E2E2E2;
+}
+.f{
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 491px;
+    top: 42px;
+    opacity: 0.5;
+}
+.inst{
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 521px;
+    top: 42px;
+    opacity: 0.5;
+}
+.yt{
+    position: absolute;
+    width: 30px;
+    height: 20px;
+    left: 556px;
+    top: 43px;
+    opacity: 0.5;
+}
+.Palochka3{
+    position: absolute;
+    width: 1px;
+    height: 40px;
+    left: 601px;
+    top: 31px;
+    background: #E2E2E2;
+}
+.Tel{
+position: absolute;
+width: 128px;
+height: 21px;
+left: 627px;
+top: 29px;
+font-family: Suisse Int;
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 21px;
+text-align: center;
+color: #393939;
+}
+.Tel2{
+position: absolute;
+width: 128px;
+height: 21px;
+left: 627px;
+top: 55px;
+font-family: Suisse Int;
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 21px;
+text-align: center;
+color: #393939;
+}
+.Tel3{
+position: absolute;
+width: 39px;
+height: 39px;
+left: 762px;
+top: 32px;
+}
+.Palochka4{
+position: absolute;
+width: 1px;
+height: 40px;
+left: 826px;
+top: 31px;
+background: #E2E2E2;
+}
+.Fon{
+position: absolute;
+width: 240px;
+height: 55px;
+left: 862px;
+top: 23px;
+background: #EFF3F6;
+border-radius: 2px;
+}
+.Maistra{
+position: absolute;
+width: 145px;
+height: 20px;
+left: 882px;
+top: 40px;
+font-family: Montserrat;
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 20px;
+text-align: center;
+text-transform: uppercase;
+color: #373737;
+}
+.Krasniy{
+    position: absolute;
+    width: 55px;
+    height: 55px;
+    left: 1047px;
+    top: 23px;
+    background-color: #DD4053;
+    border-radius: 2px;
+}
+.Galochka{
+position: absolute;
+left: 0.1%;
+right: -0.1%;
+top: 0.1%;
+bottom: -0.08%;
+display: flex;
+margin-top: 18.3px;
+margin-left: 18.3px;
+width: 20px;
+height: 20px;
+}
+.Fon2{
+position: absolute;
+width: 205px;
+height: 55px;
+left: 1132px;
+top: 23px;
+background: #EFF3F6;
+border-radius: 2px;
+}
+.Tury{
+position: absolute;
+width: 118px;
+height: 20px;
+left: 1147px;
+top: 40px;
+font-family: Montserrat;
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 20px;
+text-align: center;
+text-transform: uppercase;
+color: #373737;
+}
+.Zeleniy{
+    position: absolute;
+    width: 55px;
+    height: 55px;
+    left: 1282px;
+    top: 23px;
+    background: #4AD295;
+    border-radius: 2px;
+}
+.Poisk{
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 0%;
+    display: flex;
+    margin-top: 18.3px;
+    margin-left: 18.3px;
+}
+.Hr{
+position: absolute;
+width: 1440px;
+height: 1px;
+left: 0px;
+top: 100px;
+background: #000000;
+}
+.Oteli{
+position: absolute;
+width: 46px;
+height: 19px;
+left: 253px;
+top: 128px;
+font-family: Suisse Int;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 19px;
+color: #171717;
+}
+.Poisk2{
+position: absolute;
+width: 20px;
+height: 20px;
+top: 128px;
+left: 174px;
+}
+.Strany{
+position: absolute;
+width: 56px;
+height: 19px;
+left: 369px;
+top: 128px;
+font-family: Suisse Int;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 19px;
+text-align: center;
+color: #616161;
+}
+.Avia{
+position: absolute;
+width: 37px;
+height: 19px;
+left: 494px;
+top: 128px;
+font-family: Suisse Int;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 19px;
+text-align: center;
+color: #616161;
+}
+.Katalog{
+    position: absolute;
+    width: 103px;
+    height: 19px;
+    left: 601px;
+    top: 128px;
+    font-family: Suisse Int;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 19px;
+    text-align: center;
+    color: #616161;
+}
+.Agentam{
+position: absolute;
+width: 61px;
+height: 19px;
+left: 760px;
+top: 128px;
+font-family: Suisse Int;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 19px;
+color: #616161;
+}
+.Onas{
+position: absolute;
+width: 41px;
+height: 19px;
+left: 897px;
+top: 128px;
+font-family: Suisse Int;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 19px;
+color: #616161;
+}
+.Blog{
+position: absolute;
+width: 34px;
+height: 19px;
+left: 1014px;
+top: 128px;
+font-family: Suisse Int;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 19px;
+text-align: center;
+color: #616161;
+}
+.FAQ{
+position: absolute;
+width: 29px;
+height: 19px;
+left: 1108px;
+top: 128px;
+font-family: Suisse Int;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 19px;
+text-align: center;
+color: #616161;
+}
+.Kontakti{
+position: absolute;
+width: 71px;
+height: 19px;
+left: 1196px;
+top: 128px;
+font-family: Suisse Int;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 19px;
+text-align: center;
+color: #616161;
+}
+.Polosochka{
+position: absolute;
+width: 60px;
+height: 3px;
+left: 253px;
+top: 167px;
+background: #DD4053;
+}
+.U{
+    position: absolute;
+width: 1440px;
+height: 490px;
+left: 0px;
+top: 270px;
+}
+.Y{
+    position: absolute;
+    width: 1440px;
+    height: 490px;
+    left: 0px;
+    top: 270px;
+    background: linear-gradient(180deg, rgba(9, 17, 61, 0.1) 14.37%, #060B26 100%);
+}
+.I{
+    position: absolute;
+    width: 1440px;
+    height: 490px;
+    left: 0px;
+    top: 270px;
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0.1) 14.37%, rgba(0, 0, 0, 0.8) 100%);
+}

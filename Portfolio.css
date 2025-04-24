@@ -1,0 +1,50 @@
+body{
+    background-color: lightgray;
+}
+.Ja{
+    text-align: center;
+    font-size: 40px;
+}
+.Nauczyciel{
+    text-align: center;
+    font-size: 20px;
+}
+.A{
+    width: 1200px;
+    height: 380px;
+    border-radius: 10%;
+    background-color: rgb(245, 245, 245);
+    display: flex;
+    margin: 10px auto;
+    flex-wrap: wrap;
+    padding: 20px;
+}
+.A:hover{
+    
+}
+.L1{
+    width: 100%;
+    font-size: 30px;    
+}
+.L{
+    width: 30%;
+    background-color: white;
+    box-shadow: 4px 6px 25px #d0d0d0;
+    border-radius: 8px;
+    padding: 10px;
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between; 
+}
+.Button{
+    display: inline-block;
+    height: 30px;
+    padding: 0 10px;
+    border: 1px solid #02b3e4;
+    border-radius: 4px;
+    text-decoration: none;
+    text-align: center;
+    font-size: 14px;
+    line-height: 29px;
+}

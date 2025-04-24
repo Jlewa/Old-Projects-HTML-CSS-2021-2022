@@ -1,0 +1,58 @@
+.Nadpisey{
+    display: flex;
+    font-size: 20px;
+}
+.P,.I,.C{
+    margin-left: 150px;
+}
+.D{
+    display: flex;
+    width: 400px;
+    height: 200px;
+    background-color: rgb(51, 47, 47);
+    font-size: 20px;
+    flex-direction: column;
+    margin: 10px;
+}
+.Diveshe{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+.Dwa,.Trzy,.Jeden{
+    display: flex;
+    flex-direction: row;
+}
+img{
+    border-radius: 50%;
+    left: 1px;
+    margin-right: -15px;
+    
+}
+.Numer{
+    display: flex;
+    background-color: gray;
+    width: 400px;
+    height: 80px;
+    justify-content: center;
+    border-top: lightslategray solid 2px;
+}
+.Dash{
+    display: flex;
+    justify-content: flex-end; 
+    font-size: 20px;  
+}
+.Job{
+    font-size: 35px;
+}
+.Lorem{
+    font-size: 20px;
+}
+img:hover{
+    width: 60px;
+    height: 60px;
+    transform: scale(1.3);
+}
+.D:hover{
+    box-shadow: 4px 6px 25px rgb(255, 0, 128);
+}

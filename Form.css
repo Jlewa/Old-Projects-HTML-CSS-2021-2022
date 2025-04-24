@@ -1,0 +1,252 @@
+body{
+    background-color: paleturquoise;
+}
+.Krug{
+    width:200px;
+    height: 200px;
+    border-radius:90%;
+    background-color: lightgoldenrodyellow;
+    position: fixed;
+    bottom: -50px;
+    left: -50px;
+}
+.Treugolnik{
+    width: 200px;
+    height: 200px;
+}
+.Semya{
+    width:800px ;
+    height:800px ;
+    display: flex;
+    flex-direction: row; 
+    justify-content: center;
+    margin-left: 550px;
+    margin-top:100px;
+    margin-bottom: 100px;
+    position: static;
+}
+.Papa{
+    width: 400px;
+    height: 600px;
+    border-radius: 10%;
+    background-color: whitesmoke;
+    border-top-right-radius:0%;
+    border-bottom-right-radius:0% ;
+}
+.Mama{
+    width: 400px;
+    height: 600px;
+    border-radius: 10%;
+    background-color: lightgreen;
+    border-top-left-radius:0%;
+    border-bottom-left-radius:0% ;
+}
+.CU{
+    font-size: 30px;
+    color: gray;
+    text-align: center;
+    padding-top: 20px;
+}
+.C1{
+    font-size: 20px;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    border: lightslategray solid 1px; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: lightslategray;
+}
+.C2{
+    font-size: 20px;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    border: lightslategray solid 1px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: lightslategray;
+}
+.C3{
+    font-size: 20px;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    border: lightslategray solid 1px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: lightslategray;
+}
+.C{
+    justify-content: space-around;
+    align-items: center;
+    display: flex;
+    margin-top: 50px;
+}
+.EP{
+    text-align: center;
+    color: lightslategray;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    margin-top: 15px;
+    font-size:20px;
+}
+.C1:hover{
+    background-color: gray;
+    color: honeydew;
+}
+.C2:hover{
+    background-color: gray;
+    color: honeydew;
+}
+.C3:hover{
+    background-color: gray;
+    color: honeydew;
+}
+.Email{
+    width: 300px;
+    height: 30px;
+    display: flex;
+    background-color: slategray;
+    color: white;
+    border: 1px;
+    margin-top: 15px;
+    align-items: center;
+}
+.Phone{
+    width: 300px;
+    height: 30px;
+    display: flex;
+    background-color: slategray;
+    color: white;
+    border: 1px;
+    margin-top: 15px;
+    align-items: center;
+}
+.EP{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.Email > textarea{
+    resize: none;
+    width: 300px;
+    height: 30px;
+    font-size: 20px;
+    border: 3px solid rgba(0, 0, 0, 0);
+    margin-bottom: 10px;
+    outline: none;
+    background-color: lightskyblue;
+}
+.Phone > textarea{
+    resize: none;
+    width: 300px;
+    height: 30px;
+    font-size: 20px;
+    border: 3px solid rgba(0, 0, 0, 0);
+    margin-top: 10px;
+    outline: none;
+    background-color: lightskyblue;
+}
+.None > textarea{
+    outline: none;
+    font-size: 15px;
+    resize: none;   
+    width: 250px;
+    height: 70px;
+}
+.Type{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column; 
+    margin-top: 20px;
+    font-size: 15px;
+}
+.None{
+    margin-top: 30px;
+    margin-left: 70px;
+    border: 1px solid;
+    width: 250px;
+    height: 70px;
+    border-top: 1px solid rgba(255, 255, 255, 0) ;
+    border-left: 1px solid rgba(255, 255, 255, 0);  
+}
+.Need{
+    display: flex;
+    justify-content: center;
+    color: lightslategray;
+    margin-top: 20px;
+}
+hr {
+    margin-top: 2px 0;
+    border: 2px solid #BFE2FF;
+    position: relative;
+    overflow: visible;
+    width: 150px;
+    margin-left: 115px;
+}       
+hr:after {
+    content: "";
+    border: 2px solid #337AB7;
+    position: absolute;
+    width: 20%;
+    top: -2px;
+    animation: anim-hr 5s linear infinite; 
+}
+@keyframes anim-hr {
+    0% {
+        left: -20%;
+    }
+    100% {
+        left: 100%;
+    }
+}
+.CM{
+    display: flex;
+    height:40px ;
+    width:200px;
+    background-color:lightgreen ;
+    color: whitesmoke;
+    border-radius: 40%;
+    text-align: center;
+    font-size: 15px;
+    align-items: center;
+    justify-content: center;
+    margin-left:100px;
+    margin-top:50px;
+}
+.HU{
+    font-size:50px ;
+    color:whitesmoke ;
+    text-align: center;
+    margin-top: 180px;
+}
+.IF{
+    font-size: 20px;
+    color: whitesmoke;
+    text-align: center;
+    margin-top: 10px;
+    align-items: center;
+    width: 280px;
+    height: 50px;
+    margin-left: 50px;
+}
+.Button{
+    width: 70px;
+    height: 30px;
+    border-radius: 30%;
+    border: whitesmoke solid 1px;
+    text-align: center;
+    margin-left: 150px;
+    margin-top: 30px;
+    color: whitesmoke;
+    align-items: center;
+    justify-content: center;
+    font-size: 30px;
+}

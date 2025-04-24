@@ -1,0 +1,40 @@
+html { background-size: 100%;}
+body{
+    color: rgb(148, 148, 148);
+    font-family: 'Montserrat', sans-serif;
+    font-size: large;
+    font-weight: 100;
+    background-image:url(https://images2.alphacoders.com/138/1381646.png) ;
+    background-size: 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+img {
+    border-radius:50% ;
+}
+hr{
+    background-color: teal;
+    height: auto;
+    width: auto;
+    border: tomato;
+}
+h1{
+    font-size: 50px;
+    font-family: 'Gemunu Libre', sans-serif;
+    color:thistle;
+}
+h2{
+    font-size: 40px;
+    font-family: 'Inconsolata', monospace;
+color: yellow;
+}
+h3{
+    color: royalblue;
+    font-family: 'Josefin Sans', sans-serif;
+}
+p{
+    color: salmon;
+}
+li{
+    color: springgreen;
+}

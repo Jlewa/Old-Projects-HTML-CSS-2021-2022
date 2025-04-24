@@ -1,0 +1,58 @@
+.LPC{
+    font-weight: bold;   
+}
+.visited{
+    margin-top: 20px;
+    color: brown;
+}
+.link{
+    margin-top: 20px;
+    color: forestgreen;
+}
+.UAPS{
+    margin-top: 20px;
+    font-weight: bold;
+}
+.HOVER , .active , .focus{
+    color: forestgreen;
+    margin-top: 20px;
+}
+.FN > textarea{
+    resize: none;
+    font-size: 15px;
+}
+.FN > input{
+    width: 100px;
+    height: 10px;
+    font-size: 10px;
+    background-color: lightgrey;
+    color: black;
+}
+.first-child{
+    color: forestgreen;
+    margin-top: 20px;
+}
+.THIS{
+    font-weight: bold;  
+    margin-top: 20px;
+}
+.THISG{
+    color: forestgreen;
+    margin-top: 20px;
+}
+.ThisB{
+    color: navy;
+}
+.first-of-type{
+    margin-top: 40px;
+}
+.Thisp{
+    color: forestgreen;
+    font-weight: bold;  
+    margin-top: 20px;
+}
+.ThisPp{
+    color: forestgreen;
+    margin-top: 20px;
+    font-size: 15px;
+}
