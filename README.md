@@ -3,8 +3,8 @@
 # Mein erstes Webprojekt 🇩🇪
 
 # Inhaltsverzeichnis
-- [Deutsch 🇩🇪](#mein-erstes-webprojekt)
-- [English 🇬🇧](#my-first-web-project)
+- [Deutsch 🇩🇪](#mein-erstes-webprojekt-)
+- [English 🇬🇧](#my-first-web-project-)
 
 ---
 
