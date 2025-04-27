@@ -34,7 +34,7 @@ Während der Entwicklung dieser Webseite habe ich grundlegende Kenntnisse in fol
 - Erste Erfahrungen im Umgang mit **CSS-Frameworks**
 
 ## 🔗 Vorschau
-[Hier könnte ein Link zu einer Live-Demo (z. B. GitHub Pages) eingefügt werden]
+[Portfolio.html](https://github.com/Jlewa/Old-Projects-HTML-CSS-2021-2022/blame/3bf2fd2b2a21a9e050253978d927f94393d97e2c/Portfolio.html)
 
 ---
 
@@ -64,7 +64,7 @@ During the development of this website, I gained basic knowledge in the followin
 - Gaining first experiences with **CSS Frameworks**
 
 ## 🔗 Preview
-[A link to a live demo (e.g., GitHub Pages) could be placed here]
+[A link to a live demo (e.g., GitHub Pages) could be placed here](https://github.com/Jlewa/Old-Projects-HTML-CSS-2021-2022/blame/3bf2fd2b2a21a9e050253978d927f94393d97e2c/Portfolio.html)
 
 ---
 
